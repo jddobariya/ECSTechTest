@@ -1,0 +1,16 @@
+﻿{
+  "bindingCulture": {
+    "language": "en-us"
+  },
+  "language": {
+    "feature": "en-us"
+  },
+  "unitTestProvider": {
+    "name": "xUnit"
+  },
+  "stepAssemblies": [
+    {
+      "assembly": "TestFramework"
+    }
+  ]
+}
